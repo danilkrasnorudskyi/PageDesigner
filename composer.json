@@ -23,5 +23,14 @@
         "psr-4": {
             "Magenerds\\PageDesigner\\": ""
         }
+    },
+    "replace": {
+        "magento/module-aws-s3-page-builder": "*",
+        "magento/module-catalog-page-builder-analytics": "*",
+        "magento/module-cms-page-builder-analytics": "*",
+        "magento/module-page-builder": "*",
+        "magento/module-page-builder-admin-analytics": "*",
+        "magento/module-page-builder-analytics": "*",
+        "magento/page-builder": "*"
     }
 }
