@@ -9,7 +9,6 @@
         "magenerds/wysiwyg-widget": "^1.1"
     },
     "conflict": {
-        "magento/module-page-builder": "*",
         "gene/bluefoot": "*"
     },
     "type": "magento2-module",
